@@ -1,6 +1,6 @@
 body{
     background-color: #EEE;
-    font-family: Helvetica, Arial, sans-serif
+    font-family: Helvetica, Arial, sans-serif;
 } 
 
 a {
@@ -12,7 +12,7 @@ h1, h2, h3 {
     margin: 0;
 }
 
-#contanier{
+#contanier {
     background-color:white;
     width:800px;
     margin-left:auto;
@@ -25,13 +25,16 @@ h1, h2, h3 {
         text-align: center;
         padding: 10px;
 }
+
 #content{
     padding: 10px;
 }
+
 #nav{
     width: 100px;
     float: left;
 }
+
 #nav ul {
     list-style-type: none;
     padding: 0; 
@@ -40,10 +43,12 @@ h1, h2, h3 {
 #nav .selected {
     font-weight: bold;
 }
+
 #main {
     width: 600px;
     float: right;
 }
+
 #footer {
     clear: both;
     padding: 10px;
