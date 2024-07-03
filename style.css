@@ -1,5 +1,5 @@
-body{
-    background-color: #EEE;
+body {
+    background-color: #EEEEEE;
     font-family: Helvetica, Arial, sans-serif;
 } 
 
@@ -12,7 +12,7 @@ h1, h2, h3 {
     margin: 0;
 }
 
-#contanier {
+#container {
     background-color:white;
     width:800px;
     margin-left:auto;
@@ -53,5 +53,6 @@ h1, h2, h3 {
     clear: both;
     padding: 10px;
     background-color: #999999;
+    color: white;
     text-align: right;
 }
